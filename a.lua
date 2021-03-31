@@ -1,7 +1,3 @@
-return function(arg)
-	if arg ~= "hi" then
-		return nil
-	end
-  a = "hoi"
+return print("hi25555555555555555")
   
   
