@@ -1,1 +1,5 @@
-print("hi25555555555555555")
+function(arg)
+	if arg ~= "hi" then
+		return nil
+	end
+ print("yes daddy")
